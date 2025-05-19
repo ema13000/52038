@@ -44,6 +44,12 @@ Salida por consola (escribir)
 
 Asignación de variables (números, strings, identificadores)
 
+## Para instalar el proyecto es necesario:
+ 
+Clona este repositorio desde la terminal:
+git clone 
+
+
 Para ejecutar el programa es necesario escribir el siguiente codigo en el terimnal del visual studio code: node index.js
 
 Ejemplo 1) Este ejemplo muestra entrada/salida, asignación y uso de variables.
