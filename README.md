@@ -47,8 +47,13 @@ Asignación de variables (números, strings, identificadores)
 ## Para instalar el proyecto es necesario:
  
 Clona este repositorio desde la terminal:
-git clone 
+git clone https://github.com/ema13000/52038.git
 
+Cambia la direccion al repositorio en el cmd:
+cd 52038/analizador final
+
+Para abrir el proyecto en VS Code escribe esto en la terminal:
+code .
 
 Para ejecutar el programa es necesario escribir el siguiente codigo en el terimnal del visual studio code: node index.js
 
