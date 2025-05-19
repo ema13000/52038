@@ -1,0 +1,7 @@
+funcion main() {
+  escribir("Hola mundo");
+  leer(nombre);
+  escribir(nombre);
+  x = 5;
+  escribir(x);
+}
