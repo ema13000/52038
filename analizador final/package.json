@@ -1,0 +1,13 @@
+{
+  "name": "analizador-libro",
+  "version": "1.0.0",
+  "description": "Analizador léxico, sintáctico e intérprete en JavaScript con ANTLR4",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "antlr4": "^4.13.1"
+  }
+}
