@@ -1,0 +1,6 @@
+funcion main() {
+  nombre = "Juan";
+  edad = 30;
+  escribir(nombre);
+  escribir(edad);
+}
